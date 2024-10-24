@@ -18,9 +18,11 @@ This research presents an explainable artificial intelligence approach for predi
 ├── models/            # Model implementation (available upon request)
 ├── notebooks/         # Jupyter notebooks for analysis and visualization
 main.py                 # main train script
+
 ***
 ## 🔧 Prerequisites
 - Python 3.8 and above
+
 ***
 ## Dataset
 The dataset is organized in the `./datasets` directory
