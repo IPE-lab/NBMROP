@@ -20,7 +20,7 @@ This research presents an explainable artificial intelligence approach for predi
 main.py                 # main train script
 ```
 ***
-## 🔧 Prerequisites
+## Prerequisites
 - Python 3.8 and above
 
 ***
