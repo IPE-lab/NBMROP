@@ -1,7 +1,7 @@
 # Rate of Penetration Prediction using Explainable AI
 ## Running screenshots show
-- **The structure of proposed PINN model**
-- <img src="img/The structure of proposed PINN model.jpg" width="400" />
+- **The Visualisation of a prediction derived by a learned NBM.**
+- <img src="img/NBMprediction.jpg" width="400" />
 ***
 ## Paper Support
 - Original information: Stop Using Black-Box Models: Application of Explainable Artificial Intelligence for Rate of Penetration Prediction.
