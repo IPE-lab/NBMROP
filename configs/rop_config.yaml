@@ -1,0 +1,5 @@
+modelconfig:
+  num_concepts: 10
+  num_classes: 1
+  modeltype: 'nbm'
+  
